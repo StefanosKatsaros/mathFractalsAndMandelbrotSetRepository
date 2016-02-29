@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0C5F8A62-B2BB-FC58-7D88-D0C89EA7D8F5}") = "Fractals", "Assembly-CSharp-firstpass.csproj", "{0821952C-AE62-5F0E-6222-C54E1C7D317A}"
+EndProject
+Project("{0C5F8A62-B2BB-FC58-7D88-D0C89EA7D8F5}") = "Fractals", "Assembly-CSharp.csproj", "{6A390307-8275-F941-222D-1143952FB43E}"
+EndProject
+Project("{0C5F8A62-B2BB-FC58-7D88-D0C89EA7D8F5}") = "Fractals", "Assembly-CSharp-Editor.csproj", "{E2AB55C1-AA73-6405-9517-73A7305FC20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0821952C-AE62-5F0E-6222-C54E1C7D317A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0821952C-AE62-5F0E-6222-C54E1C7D317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0821952C-AE62-5F0E-6222-C54E1C7D317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0821952C-AE62-5F0E-6222-C54E1C7D317A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A390307-8275-F941-222D-1143952FB43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A390307-8275-F941-222D-1143952FB43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A390307-8275-F941-222D-1143952FB43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A390307-8275-F941-222D-1143952FB43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AB55C1-AA73-6405-9517-73A7305FC20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AB55C1-AA73-6405-9517-73A7305FC20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AB55C1-AA73-6405-9517-73A7305FC20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AB55C1-AA73-6405-9517-73A7305FC20D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
